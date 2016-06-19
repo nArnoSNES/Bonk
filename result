@@ -1,0 +1,3 @@
+Linking ... bonk.sfc
+wlalink -dsno  score.obj title.obj common.obj splash.obj main.obj play.obj hdr.obj data.obj /home/user/snesdev/pvsneslib/lib/crt0_snes.obj /home/user/snesdev/pvsneslib/lib/libc.obj /home/user/snesdev/pvsneslib/lib/libm.obj /home/user/snesdev/pvsneslib/lib/libtcc.obj /home/user/snesdev/bonk/bonk.sfc
+/home/user/snesdev/devkitsnes/snes_rules:70: recipe for target '/home/user/snesdev/bonk/bonk.sfc' failed
